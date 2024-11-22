@@ -1,5 +1,5 @@
 
-## Still developing ##
+## Still developing , work in progress ##
 
 **-- TS Fix -- Automated Trouble shooter --**
 -A Simple tool made for automatically detect error (using Image processing) and give all possible solution (using LLM model)
