@@ -15,6 +15,7 @@
 Screen Scout harnesses the power of **Computer Vision** and **Large Language Models (LLM)** to give you detailed descriptions of any captured content on your screen. Whether you're identifying objects, solving errors, or learning something new, Screen Scout has you covered. 💡
 
 ---
+## 🌍 Let Screen Scout be your digital assistant! 🎉
 
 ## 🏆 Key Features
 
@@ -49,6 +50,3 @@ We welcome contributions to improve Screen Scout! Feel free to open issues or su
 Created by Aishwaryaraj Chandel on November 18, 2024.
 For suggestions, feedback, or issues, reach out at:
 📧 aishwaryaraj.chandel@gmail.com
-
-## 🌍 Let Screen Scout be your digital assistant! 🎉
-
