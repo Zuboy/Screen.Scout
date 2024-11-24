@@ -12,35 +12,27 @@
 
 ## 🎯 What is Screen Scout?
 
-Screen Scout harnesses the power of **Computer Vision** and **Large Language Models (LLM)** to give you detailed descriptions of any captured content on your screen. Whether you're identifying objects, solving errors, or learning something new, Screen Scout has you covered. 💡
+**Screen Scout** is a powerful tool designed to simplify your digital interactions. With a simple screen capture of your active screen (desktop screen), it instantly analyzes the captured image, identifying objects, text, and scenes.
 
+***You can capture any image,text,object that is currently being displayed on your screen and quickly gain information about what it is and get a latest breif description of it using LLM. It uses Computer Vision to capture and extract information about the object/text/image on the screen and then uses LLM to give description about it***
 ---
 ## 🌍 Let Screen Scout be your digital assistant! 🎉
 
-## 🏆 Key Features
+## 🏆 Key Features and Uses : 
 
-✨ **Real-Time Screen Capture**: Quickly capture any part of your screen with a keystroke or click.  
-🤖 **Advanced Image Analysis**: Uses state-of-the-art AI to identify objects, text, and scenes with precision.  
-🧠 **Smart Insights**: LLM provides up-to-date descriptions and context for everything it analyzes.  
-🖥️ **User-Friendly Interface**: Clean, intuitive, and designed for all skill levels.  
-⚙️ **Customizable Settings**: Tailor the software to suit your unique needs.
-
----
-
-## 💡 Why Use Screen Scout?
-
-- 🛠️ **On-Screen Error Diagnosis**: Instantly identify and resolve system errors (e.g., DLL issues) without manual searching.  
-- 🔍 **Quick Information Retrieval**: Identify logos, products, or text in real-time from videos, games, or websites.  
-- ♿ **Accessibility**: Help visually impaired users by providing detailed descriptions of on-screen content.  
-- 📚 **Education**: Enhance learning experiences by exploring visual content effortlessly.  
-- 📊 **Research**: Analyze images to extract valuable data and insights.  
+- ✨ **On Screen error diagnosis** : to automatically get description as well as solvution of windows/dll/any on screen error without having to manually search the error.  
+- 🤖 **Quick Information Retrieval : Instantly identify products, logos, or text from websites, documents, or images from on screen application ( including real time processes videos,games,website )
+- 📚 **Education** : Enhance learning experiences by exploring visual content effortlessly.  
+- 📊 **Research** : Analyze images to extract valuable data and insights.  
+- 🧠 **Smart Insights** : LLM provides up-to-date descriptions and context for everything it analyzes.  
+- 🖥️ **User-Friendly Interface** : Clean, intuitive, and designed for all skill levels.  
+- ⚙️ **Customizable Settings** : Tailor the software to suit your unique needs.
 
 ---
-
 ## 🚀 Future Scope
 
-🔧 **Automated Troubleshooting**: Not just detect errors but also solve them with automated services.  
-🔗 **Seamless Integration**: Transform Screen Scout into an OS extension for smoother workflows.  
+🔧 **Automated Troubleshooting** : Not just detect errors but also solve them with automated services.  
+🔗 **Seamless Integration** : Transform Screen Scout into an OS extension for smoother workflows.  
 
 ---
 ## 🤝 Contributing
