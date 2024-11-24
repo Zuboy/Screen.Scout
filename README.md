@@ -19,10 +19,10 @@ ImageAnalyzer is a powerful tool designed to simplify your digital interactions.
 --Research: Analyze images to extract valuable data and insights.
 
 ## Key Features:
---Real-Time Screen Capture: Easily capture any portion of your screen with a simple keystroke or mouse click.
---Advanced Image Analysis: Leverage state-of-the-art AI and machine learning algorithms to accurately identify objects, text, and scenes.
---User-Friendly Interface: A clean and intuitive interface makes it easy to use for everyone.
---Customizable Settings: Tailor the software to your specific needs with a range of customization options.
+-Real-Time Screen Capture: Easily capture any portion of your screen with a simple keystroke or mouse click.
+-Advanced Image Analysis: Leverage state-of-the-art AI and machine learning algorithms to accurately identify objects, text, and scenes.
+-User-Friendly Interface: A clean and intuitive interface makes it easy to use for everyone.
+-Customizable Settings: Tailor the software to your specific needs with a range of customization options.
 
 **-- Future Scope --**
 -To not only detect errors but also solve them by using automated mini programs/services
