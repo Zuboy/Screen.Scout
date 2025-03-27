@@ -6,7 +6,7 @@
 
 # 🌟 Screen Scout - Automated Image Analysis 🌟
 
-**Screen Scout** is a cutting-edge tool designed to simplify your digital interactions. With just a screen capture, it analyzes and provides valuable insights into on-screen content—objects, text, and scenes—all in an instant! 🚀
+**Screen Scout** is a simple tool designed to simplify your digital interactions. With just a screen capture, it analyzes and provides valuable insights into on-screen content—objects, text, and scenes—all in an instant using Google Gemini's API ! 🚀
 
 ---
 
