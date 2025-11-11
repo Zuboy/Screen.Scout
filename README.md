@@ -1,6 +1,6 @@
 
 ## Still developing , work in progress ##
-## Update as of 24/NOV/2024
+## Update as of 24/NOV/2025
 **code works fine , can take image as dynamic input , extract relevant error message and give out troubleshooting steps as well as websites to solve the error ( code is in main1.1.py )**
 **working on making a desktop app with inbuild screenshot taker or if possible cloud application**
 
